@@ -114,7 +114,7 @@ F1 –> 输入Open Settings（JSON），添加以下配置，保存，重启VSCo
 ```bash
 # 编译
 make build
-# 清楚中间文件
+# 清理中间文件
 make clean 
 # 获取提交码（仅支持MacOS和Linux）
 make submit
