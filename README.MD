@@ -105,7 +105,7 @@ F1 –> 输入Open Settings（JSON），添加以下配置，保存，重启VSCo
 
 ```
 
-- 左侧栏TEX --> BUILD --> 单击Recipe: xelatex*2
+- 如何编译Latex文件？左侧栏TEX --> BUILD --> 单击Recipe: xelatex*2
   
 
 🍻 Done！
